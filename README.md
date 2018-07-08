@@ -16,7 +16,7 @@ Compile the project
 mvn clean package
 
 Run the project 
-java -jar <JAR file name-present inside target folder>
+java -jar target/jarname
    
 If you want to explore the REST API docs online, there is a Swagger UI configured for visualizing the REST APIs, just go to http://localhost:8080/swagger-ui.html.
 
